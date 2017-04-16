@@ -1,0 +1,47 @@
+#image {
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+#header {
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+#menu {
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+#content {
+	width: 600px;
+	margin: 0 auto;
+	text-align: center;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: brown;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px 14px;
+    text-decoration: none;
+}
+/* Change the link color to orange on hover */
+li a:hover {
+    background-color: orange;
+}
+.link {
+    color: orange;
+}
